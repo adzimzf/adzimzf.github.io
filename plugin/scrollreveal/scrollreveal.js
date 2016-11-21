@@ -148,7 +148,6 @@
         }
 
 
-
         /**
          * Check if client supports CSS Transform and CSS Transition.
          * @return {boolean}
